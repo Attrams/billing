@@ -1,4 +1,4 @@
-defmodule Billing.InvoiceController do
+defmodule BillingWeb.InvoiceController do
   use BillingWeb, :controller
 
   def index(conn, _params) do
